@@ -1,0 +1,7 @@
+# Hidden files
+.*
+
+# Backup files
+*.bak*
+*#*
+*~
